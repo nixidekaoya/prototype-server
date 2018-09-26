@@ -1,0 +1,6 @@
+{
+    "image file":"output.jpg",
+    "height": 416,
+    "width": 416,
+    "bias pixels": 20
+}
